@@ -1,0 +1,3 @@
+Selettori CfsSubsetEval + BestFirst data C3-weka.filters.supervised.instance.SMOTE-C0-K5-P100.0-S1
+
+[2, 3, 4]

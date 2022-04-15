@@ -1,0 +1,16 @@
+Results J48 for C3
+
+
+Correctly Classified Instances         141               95.9184 %
+Incorrectly Classified Instances         6                4.0816 %
+Kappa statistic                          0.9082
+K&B Relative Info Score                 89.0687 %
+K&B Information Score                  120.2725 bits      0.8182 bits/instance
+Class complexity | order 0             135.0333 bits      0.9186 bits/instance
+Class complexity | scheme             6445.7883 bits     43.8489 bits/instance
+Complexity improvement     (Sf)      -6310.7549 bits    -42.9303 bits/instance
+Mean absolute error                      0.0492
+Root mean squared error                  0.2025
+Relative absolute error                 11.0355 %
+Root relative squared error             42.9424 %
+Total Number of Instances              147     

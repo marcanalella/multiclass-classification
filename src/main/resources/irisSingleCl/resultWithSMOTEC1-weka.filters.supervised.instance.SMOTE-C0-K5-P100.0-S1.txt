@@ -1,0 +1,16 @@
+Results J48 for C1-weka.filters.supervised.instance.SMOTE-C0-K5-P100.0-S1
+
+
+Correctly Classified Instances         195               99.4898 %
+Incorrectly Classified Instances         1                0.5102 %
+Kappa statistic                          0.9898
+K&B Relative Info Score                 98.9798 %
+K&B Information Score                  194.0407 bits      0.99   bits/instance
+Class complexity | order 0             196.0407 bits      1.0002 bits/instance
+Class complexity | scheme             1074      bits      5.4796 bits/instance
+Complexity improvement     (Sf)       -877.9593 bits     -4.4794 bits/instance
+Mean absolute error                      0.0051
+Root mean squared error                  0.0714
+Relative absolute error                  1.0203 %
+Root relative squared error             14.2837 %
+Total Number of Instances              196     

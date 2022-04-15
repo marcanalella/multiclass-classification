@@ -1,0 +1,16 @@
+Results CfsSubsetEval+BestFirst for C2-weka.filters.supervised.instance.SMOTE-C0-K5-P100.0-S1
+
+
+Correctly Classified Instances         185               94.3878 %
+Incorrectly Classified Instances        11                5.6122 %
+Kappa statistic                          0.8878
+K&B Relative Info Score                 82.9172 %
+K&B Information Score                  162.5515 bits      0.8293 bits/instance
+Class complexity | order 0             196.0407 bits      1.0002 bits/instance
+Class complexity | scheme               39.6417 bits      0.2023 bits/instance
+Complexity improvement     (Sf)        156.399  bits      0.798  bits/instance
+Mean absolute error                      0.0932
+Root mean squared error                  0.2042
+Relative absolute error                 18.6393 %
+Root relative squared error             40.8387 %
+Total Number of Instances              196     

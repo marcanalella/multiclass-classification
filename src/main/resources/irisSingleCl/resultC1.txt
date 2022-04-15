@@ -1,0 +1,16 @@
+Results J48 for C1
+
+
+Correctly Classified Instances         145               98.6395 %
+Incorrectly Classified Instances         2                1.3605 %
+Kappa statistic                          0.9691
+K&B Relative Info Score                 96.795  %
+K&B Information Score                  130.7055 bits      0.8892 bits/instance
+Class complexity | order 0             135.0333 bits      0.9186 bits/instance
+Class complexity | scheme             2148      bits     14.6122 bits/instance
+Complexity improvement     (Sf)      -2012.9667 bits    -13.6937 bits/instance
+Mean absolute error                      0.0136
+Root mean squared error                  0.1166
+Relative absolute error                  3.0543 %
+Root relative squared error             24.7384 %
+Total Number of Instances              147     

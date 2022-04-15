@@ -1,0 +1,16 @@
+Results Infogain + Ranker for C1-weka.filters.supervised.instance.SMOTE-C0-K5-P100.0-S1
+
+
+Correctly Classified Instances         195               99.4898 %
+Incorrectly Classified Instances         1                0.5102 %
+Kappa statistic                          0.9898
+K&B Relative Info Score                 98.27   %
+K&B Information Score                  192.6492 bits      0.9829 bits/instance
+Class complexity | order 0             196.0407 bits      1.0002 bits/instance
+Class complexity | scheme                6.9508 bits      0.0355 bits/instance
+Complexity improvement     (Sf)        189.09   bits      0.9647 bits/instance
+Mean absolute error                      0.0095
+Root mean squared error                  0.0762
+Relative absolute error                  1.8901 %
+Root relative squared error             15.2452 %
+Total Number of Instances              196     
